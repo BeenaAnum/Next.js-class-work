@@ -9,7 +9,6 @@ function Contact() {
         <h1 className="flex justify-center items-center ">This is Contact Us Page</h1>
         <Navbar />
          </>
-    )
+)
 }
-
-export default About
+export default Contact
